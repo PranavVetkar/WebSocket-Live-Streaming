@@ -22,7 +22,7 @@ This project streams live ticker updates, tracks price movement in real time, an
 - **Python 3.8+**
 - **AsyncIO**
 - **WebSockets**
->> pip install websockets
+> pip install websockets
 - **Binance WebSocket API**
 
 ---
